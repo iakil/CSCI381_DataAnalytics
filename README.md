@@ -1,1 +1,4 @@
-# 381_DataScience
+# CSCI381_DataScience
+# HW
+
+ * ## W1
