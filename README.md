@@ -5,6 +5,23 @@ data visualization, classification, regression, clustering, and advanced techniq
 end-to-end models going through the full life-cycle.
 
 
+<br>
+
+___
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1_9r_EWmSjv1WM40NW0ybgstOBAcvl1dv" alt="Akil-Logo">
+</p>
+
+___
+
+<br>
+
+
+
+
+<br>
+
 <details> 
 <summary>
 
@@ -16,14 +33,28 @@ end-to-end models going through the full life-cycle.
 </pre>
 </details>
 
+<br>
 
 <details> 
 <summary>
 
-## [Projects:](https://drive.google.com/open?id=1M_48aNIPFUkKQHGAwS5yEw6NYTphtHCm)
+## [Projects:](https://drive.google.com/open?id=1EtylAcJU4pk53rygvo-bcw40Cg66CFnz)
 </summary>
 <pre>
 
-[HW1](https://github.com/iakil/CSCI381_DataScience/blob/main/Project/) 
+[Assignment 1](https://github.com/iakil/CSCI381_DataAnalytics/blob/main/Project/A_Bhuiyan_Quiz1.ipynb) 
+
+[Assignment 2](https://github.com/iakil/CSCI381_DataAnalytics/blob/main/Project/A_Bhuiyan_Quiz2.ipynb) 
+
+[Assignment 3](https://github.com/iakil/CSCI381_DataAnalytics/blob/main/Project/A_Bhuiyan_Quiz3.ipynb) 
+
+[Assignment 4](https://github.com/iakil/CSCI381_DataAnalytics/blob/main/Project/A_Bhuiyan_Quiz4.ipynb) 
+
+[Project 1](https://github.com/iakil/CSCI381_DataAnalytics/blob/main/Project/A_Bhuiyan_Project1.ipynb) 
+
+[Project 2](https://github.com/iakil/CSCI381_DataAnalytics/blob/main/Project/A_Bhuiyan_Project2.ipynb)  
+
+[Final Project](https://github.com/iakil/CSCI381_DataAnalytics/blob/main/Project/A_Bhuiyan_FinalProject.ipynb) 
+
 </pre>
 </details>
